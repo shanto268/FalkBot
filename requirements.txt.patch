@@ -1,0 +1,13 @@
+diff --git a/requirements.txt b/requirements.txt
+index 043114c..1d2cc98 100644
+--- a/requirements.txt
++++ b/requirements.txt
+@@ -2,3 +2,7 @@ langchain==0.0.154
+ PyPDF2==3.0.1
+ python-dotenv==1.0.0
+ streamlit==1.18.1
++altair==4
++openai
++tiktoken
++faiss-cpu
+
